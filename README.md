@@ -1,8 +1,7 @@
-- @guitarmonkey7 is Elijah Cliett
-- Language skills: SQL, Python, JavaScript, C#, Java, PHP
-- BS in Web Development from Middle GA State University
-- Willing to collab
-- reach me through Github, or on LinkedIn at https://www.linkedin.com/in/elijahcliett/
+- Things I do: Web Dev, Data Engineering, DevOps, Software Development
+- Things I know: AWS, SQL, Python, JavaScript, and how to write "Hello World!" in about 15 others
+- Things I want to learn: <character limit exceeded>
+- BS in Web Development | https://www.linkedin.com/in/elijahcliett
 
 <!---
 guitarmonkey7/guitarmonkey7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
